@@ -60,3 +60,25 @@ h1 {
   border-radius: 10px;
   background-color: aquamarine;
 }
+.dev-left {
+  width: 40%;
+  padding: 30px;
+}
+.dev-left img {
+  width: 80%;
+}
+.dev-right {
+  width: 60%;
+  padding: 30px;
+}
+.globe-left {
+  width: 60%;
+  padding: 30px;
+}
+.globe-right {
+  width: 40%;
+  padding: 30px;
+}
+.globe-right img {
+  width: 80%;
+}
