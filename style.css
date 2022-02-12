@@ -1,0 +1,62 @@
+body {
+  font-family: "Poppins", sans-serif;
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  font-size: 50px;
+}
+.flexible-container {
+  display: flex;
+  margin-bottom: 150px;
+}
+.half-width {
+  width: 50%;
+  padding-left: 5%;
+}
+.half-width img {
+  width: 80%;
+}
+.link-button {
+  text-decoration: none;
+  background-image: linear-gradient(orange, tomato);
+  border-radius: 5px;
+  padding: 10px 40px;
+  color: white;
+  font-weight: bold;
+}
+.border {
+  border-left: 5px solid;
+  border-color: red;
+}
+.center {
+  text-align: center;
+}
+.my-mission img {
+  width: 50%;
+}
+.mission {
+  width: 40%;
+  margin-left: 5px;
+  margin-right: 5%;
+  padding-left: 10px;
+  border-radius: 10px;
+  background-color: antiquewhite;
+}
+.vission {
+  width: 40%;
+
+  margin-right: 5%;
+  padding-left: 10px;
+  border-radius: 10px;
+  background-color: bisque;
+}
+.goals {
+  width: 40%;
+
+  margin-right: 5%;
+  padding-left: 10px;
+  border-radius: 10px;
+  background-color: aquamarine;
+}
